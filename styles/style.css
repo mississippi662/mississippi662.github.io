@@ -1,0 +1,86 @@
+/*This code style the entire web page
+
+*{
+  border: solid 2px black;
+}
+*/
+
+html{
+   background-color: blue;   
+}
+
+body{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: blue;
+  padding: 0 20px 20px 20px;
+  border:;
+}
+
+h1{
+   font-family: Roboto Slab;
+   font-size: 40px;
+   letter-spacing: 1px;
+   color: #8CC6ED;
+   text-align: center; 
+}
+
+h2{
+   font-family: Roboto Slab;
+   font-size: 30px;
+   letter-spacing: 1px;
+   color: #8CC6ED;
+   text-align: center;
+}
+
+h3{
+   font-family: 'Lato', sans-serif;
+   font-size: 24px;
+   line-height: 2;
+   letter-spacing: 1px;
+   color:#8CC6ED;
+}
+
+p{
+   font-family: 'Lato', sans-serif;
+   font-size: 20px;
+   line-height: 2;
+   letter-spacing: 1px;
+   color:#8CC6ED;
+}
+
+#aboutMe{
+   text-align: center;
+}
+
+ul{
+   color: blue;
+   font-family: 'Lato', sans-serif;
+   font-style: italic;
+   line-height: 2;
+   letter-spacing: 1px;
+}
+
+ol li a{
+   text-decoration:none;
+   color: white;
+   
+}
+
+
+#name{
+   color:#106695;
+   text-decoration:underline;
+   font-size: 60px;
+   text-shadow: 4px 4px 1px #E3F6FF;
+}
+
+img{
+   display: block;
+   margin: 0 auto;  
+}
+
+
+li{
+color:white;
+}
